@@ -1,0 +1,167 @@
+{
+	"fileName": "hi_myTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "dc1bf9e4-5560-5063-624c-0fba963d214e",
+			"fileTemplateDate": "2019-06-18T07:33:21.945Z",
+			"fileTemplateCollections": [
+				"qyjzGhtzYZ8aM2x6g"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"qyjzGhtzYZ8aM2x6g"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "KHW5qGuD9v2QAEREf",
+			"possibleLanguages": [
+				"AxkzjFbjgrtTC3GxC",
+				"bQDyz7oeiQ9nMguF6",
+				"b5Rogy97xejkfoBAE"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fb5d4e62-2d78-e35c-afab-749702561a23",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"qyjzGhtzYZ8aM2x6g"
+						],
+						"fieldIsEditableCollections": [
+							"qyjzGhtzYZ8aM2x6g"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "कृपया अपलोड करें: वीडियो रिकॉर्डिंग",
+						"fieldKey": "वीडियो रिकॉर्डिंग",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "51c306ff-8c1f-bf40-f5ad-871bd357c77c",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"qyjzGhtzYZ8aM2x6g"
+						],
+						"fieldIsEditableCollections": [
+							"qyjzGhtzYZ8aM2x6g"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "कृपया अपलोड करें: ऑडियो रिकॉर्डिंग",
+						"fieldKey": "ऑडियो रिकॉर्डिंग",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6c77fbdd-7615-a189-c2a0-71562cf6a98d",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"qyjzGhtzYZ8aM2x6g"
+						],
+						"fieldIsEditableCollections": [
+							"qyjzGhtzYZ8aM2x6g"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "कृपया अपलोड करें: छवि",
+						"fieldKey": "छवि",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "3f10e9a4-f5a0-c0a7-5602-9a9a9dad1e88",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"qyjzGhtzYZ8aM2x6g"
+						],
+						"fieldIsEditableCollections": [
+							"qyjzGhtzYZ8aM2x6g"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "कृपया अपलोड करें: पाठ सामग्री",
+						"fieldKey": "पाठ सामग्री",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
